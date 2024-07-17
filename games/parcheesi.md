@@ -1,6 +1,6 @@
 # Parcheesi
 
-{% include admonition.html type="warning" content="Cette page n'a pas été mise à jour depuis le xx/xx/xxxx et peut donc contenir des informations erronées." %}
+{% include warning.html text="Cette page n'a pas été mise à jour depuis le xx/xx/xxxx et peut donc contenir des informations erronées." %}
 
 > [!NOTE]
 > Cette page n'a pas été mise à jour depuis le xx/xx/xxxx et peut donc contenir des informations erronées.
@@ -26,6 +26,13 @@ fff
 ### Rflflf
 
 ### Rflflf
+
+```mermaid
+pie title Pets adopted by volunteers
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
+```
 
 Test[^1]
 
