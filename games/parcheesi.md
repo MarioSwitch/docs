@@ -2,6 +2,14 @@
 
 {% include warning.html text="Cette page n'a pas été mise à jour depuis le xx/xx/xxxx et peut donc contenir des informations erronées." %}
 
+{% include caution.html text="Cette page n'a pas été mise à jour depuis le xx/xx/xxxx et peut donc contenir des informations erronées." %}
+
+{% include important.html text="Cette page n'a pas été mise à jour depuis le xx/xx/xxxx et peut donc contenir des informations erronées." %}
+
+{% include note.html text="Cette page n'a pas été mise à jour depuis le xx/xx/xxxx et peut donc contenir des informations erronées." %}
+
+{% include tip.html text="Cette page n'a pas été mise à jour depuis le xx/xx/xxxx et peut donc contenir des informations erronées." %}
+
 > [!NOTE]
 > Cette page n'a pas été mise à jour depuis le xx/xx/xxxx et peut donc contenir des informations erronées.
 
