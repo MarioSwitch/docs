@@ -1,9 +1,0 @@
----
-layout: default
-title: Minecraft Title
----
-
-# Minecraft
-
-> [!CAUTION]
-> Ce site est en cours de développement
