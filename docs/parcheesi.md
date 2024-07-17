@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Minecraft Title
+title: Parcheesi Title
 ---
 
 # Minecraft
 
-> [!CAUTION]
+> [!WARNING]
 > Ce site est en cours de développement
