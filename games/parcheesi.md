@@ -1,6 +1,6 @@
 # Parcheesi
 
-> [!WARNING]
+> [!NOTE]
 > Cette page n'a pas été mise à jour depuis le xx/xx/xxxx et peut donc contenir des informations erronées.
 
 Il existe de multiples variantes du Parcheesi.\
@@ -11,5 +11,8 @@ Par conséquent, ces règles peuvent différer de celles écrites sur d'autres s
 
 Test[^1]
 
-[^1]: fff
+| fffffff | ffffffff |
+| ------: | :------: |
+|    test |   fff    |
 
+[^1]: fff
