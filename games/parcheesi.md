@@ -1,6 +1,6 @@
 # Parcheesi
 
-{% include note.html text="Cette page n'est plus maintenue et peut donc contenir des informations erronées." %}
+{% include note.html text="Cette page n'est plus maintenue et peut donc contenir des informations qui ne sont plus à jour." %}
 
 Il existe de multiples variantes du Parcheesi.\
 Cette page ne concerne que la [version Mundijeux](https://www.mundijeux.fr/multijoueur/parcheesi/) de ce jeu.\
@@ -27,7 +27,7 @@ Le joueur ayant les pions jaunes commence.
 - **Si le joueur fait 5 (avec l'un des dés ou la somme)**, il doit sortir un pion et le placer sur la case départ. S'il a déjà sorti tous ses pions, il joue normalement.
 - **Dans tous les autres cas (pas de double et pas de 5, ni sur un dé, ni la somme des 2 dés)**, le joueur avance ses pions du nombre de cases indiqués par les 2 dés. Il peut choisir d'avancer un seul pion du total des dés ou d'avancer 2 pions en suivant la répartition des cases indiquées par les dés.
 
-**__Cas particuliers :__**
+**Cas particuliers :**
 
 - Si le joueur fait un double et que ses pions forment déjà 2 ponts, il **choisit** le pont qu'il souhaite ouvrir.
 - Si le joueur fait un double 5, la priorité est donnée à l'ouverture d'un pont. Cependant, s'il fait 5 avec un pion du pont, il devra **obligatoirement** sortir un pion afin d'utiliser le 2e dé.
