@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page a été mise à jour le 29 juillet 2024 et prend en compte les diffusions en direct jusqu'au 8 juillet 2024 (Logiart Grimoire #14) inclus." %}
+{% include note.html text="Cette page a été mise à jour le 13 août 2024 et prend en compte les diffusions en direct jusqu'au 13 août 2024 (Multi-jeux #HS-10) inclus." %}
 
 ## Let's Play
 
@@ -17,7 +17,7 @@
 | [Newer Apocalypse](https://www.twitch.tv/videos/1680091388?t=42m27s) | 100% | 16 décembre 2022 | 16 décembre 2022 | 1 | 1h 58m | Avec @yosh_y29
 | [Rayman Origins](https://www.twitch.tv/videos/1703185461?collection=bjI-atfgLhciGw) | 100% | 10 janvier 2023 | 28 juin 2023 | 4 | 10h 28m | Avec @yosh_y29
 | [Celeste](https://www.twitch.tv/videos/1755433172?collection=WVXirSDTTRdB0g) | Faces A[^1] | 4 mars 2023 | 19 mars 2023 | 5 | 9h 05m | Avec @yosh_y29
-| [Logiart Grimoire](https://www.twitch.tv/collections/4enQalQX0hfnJQ) | *En cours* | 22 mai 2024 | *En cours* | *Au moins 14* | *Au moins 34h 30m* | Solo
+| [Logiart Grimoire](https://www.twitch.tv/collections/4enQalQX0hfnJQ) | *En cours* | 22 mai 2024 | *En cours* | *Au moins 16* | *Au moins 41h 33m* | Solo
 
 ### Abandonnés
 
@@ -47,6 +47,8 @@
 |              Pico Park              |   27 avril 2024    |
 |      New Super Mario Bros. Wii      |     6 mai 2024     |
 |          Activités Discord          |    1 juin 2024     |
+|             MicroWorks              |    12 août 2024    |
+|               In Sink               |    13 août 2024    |
 
 ## Idées de jeux
 
