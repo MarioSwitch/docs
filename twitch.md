@@ -1,22 +1,24 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page a été mise à jour le 13 août 2024 et prend en compte les diffusions en direct jusqu'au 13 août 2024 (Multi-jeux #HS-10) inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 13 août 2024 (Multi-jeux #HS-10) inclus." %}
+
+{% include note.html text="Les dates spécifiées ci-dessous sont celles des rediffusions et peuvent différer de quelques jours au plus des dates des diffusions en direct." %}
 
 ## Let's Play
 
 ### Terminés / en cours
 
-| Jeu | Complétion | Début[^1] | Fin[^1] | Nb. parties | Durée totale | Co-op ? |
+| Jeu | Complétion | Début | Fin | Nb. parties | Durée totale | Co-op ? |
 | :-: | :--------: | :---: | :-: | :---------: | :----------: | :-----: |
 | [Newer Super Mario Bros. Wii](https://www.twitch.tv/collections/bVbFWTUOnRbtKA) | 100% | 20 août 2021 | 1 novembre 2021 | 8 | 11h 29m | Solo
-| [New Super Mario Bros. U Deluxe](https://www.twitch.tv/videos/1476392544?collection=bjI-atfgLhciGw) | 100% | 6 mai 2022 | 31 mai 2022 | 5 | 10h 37m | Avec @yosh_y29[^2]
+| [New Super Mario Bros. U Deluxe](https://www.twitch.tv/videos/1476392544?collection=bjI-atfgLhciGw) | 100% | 6 mai 2022 | 31 mai 2022 | 5 | 10h 37m | Avec @yosh_y29[^1]
 | [Pico Park](https://www.twitch.tv/videos/1505504333?collection=bjI-atfgLhciGw) | 100% | 16 juin 2022 | 24 juin 2022 | 2 | 2h 22m | Avec @yosh_y29
 | [Newer Holiday Special](https://www.twitch.tv/videos/1670571545?t=0s) | 100% | 5 décembre 2022 | 5 décembre 2022 | 1 | 39m | Avec @yosh_y29
 | [Newer Summer Sun](https://www.twitch.tv/videos/1670571545?t=39m34s) | 100% | 5 décembre 2022 | 5 décembre 2022 | 1 | 2h 45m | Avec @yosh_y29
 | [Newer Falling Leaf](https://www.twitch.tv/videos/1680091388?t=0s) | 100% | 16 décembre 2022 | 16 décembre 2022 | 1 | 42m | Avec @yosh_y29
 | [Newer Apocalypse](https://www.twitch.tv/videos/1680091388?t=42m27s) | 100% | 16 décembre 2022 | 16 décembre 2022 | 1 | 1h 58m | Avec @yosh_y29
 | [Rayman Origins](https://www.twitch.tv/videos/1703185461?collection=bjI-atfgLhciGw) | 100% | 10 janvier 2023 | 28 juin 2023 | 4 | 10h 28m | Avec @yosh_y29
-| [Celeste](https://www.twitch.tv/videos/1755433172?collection=WVXirSDTTRdB0g) | Faces A[^3] | 4 mars 2023 | 19 mars 2023 | 5 | 9h 05m | Avec @yosh_y29
+| [Celeste](https://www.twitch.tv/videos/1755433172?collection=WVXirSDTTRdB0g) | Faces A[^2] | 4 mars 2023 | 19 mars 2023 | 5 | 9h 05m | Avec @yosh_y29
 | [Logiart Grimoire](https://www.twitch.tv/collections/4enQalQX0hfnJQ) | *En cours* | 22 mai 2024 | *En cours* | *Au moins 16* | *Au moins 41h 33m* | Solo
 
 ### Abandonnés
@@ -61,8 +63,6 @@
 
 ## Notes
 
-[^1]: Les dates de début et de fin sont celles des rediffusions et peuvent différer de quelques jours au plus des dates réelles.
+[^1]: Et @Nico_Sinban dans la partie 2
 
-[^2]: Et @Nico_Sinban dans la partie 2
-
-[^3]: Chapitres 1 à 8, soit 175 fraises + 8 cassettes + 8 cœurs bleus
+[^2]: Chapitres 1 à 8, soit 175 fraises + 8 cassettes + 8 cœurs bleus
