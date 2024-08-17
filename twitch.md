@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 13 août 2024 (Multi-jeux #HS-10) inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 17 août 2024 (Multi-jeux #HS-11) inclus." %}
 
 {% include note.html text="Les dates spécifiées ci-dessous sont celles des rediffusions et peuvent différer de quelques jours au plus des dates des diffusions en direct." %}
 
@@ -19,7 +19,7 @@
 | [Newer Apocalypse](https://www.twitch.tv/videos/1680091388?t=42m27s) | 100% | 16 décembre 2022 | 16 décembre 2022 | 1 | 1h 58m | Avec @yosh_y29
 | [Rayman Origins](https://www.twitch.tv/videos/1703185461?collection=bjI-atfgLhciGw) | 100% | 10 janvier 2023 | 28 juin 2023 | 4 | 10h 28m | Avec @yosh_y29
 | [Celeste](https://www.twitch.tv/videos/1755433172?collection=WVXirSDTTRdB0g) | Faces A[^2] | 4 mars 2023 | 19 mars 2023 | 5 | 9h 05m | Avec @yosh_y29
-| [Logiart Grimoire](https://www.twitch.tv/collections/4enQalQX0hfnJQ) | *En cours* | 22 mai 2024 | *En cours* | *Au moins 16* | *Au moins 41h 33m* | Solo
+| [Logiart Grimoire](https://www.twitch.tv/collections/4enQalQX0hfnJQ) | *En cours* | 22 mai 2024 | *En cours* | *Au moins 18* | *Au moins 47h 54m* | Solo
 
 ### Abandonnés
 
@@ -51,6 +51,7 @@
 |          Activités Discord          |    1 juin 2024     |
 |             MicroWorks              |    12 août 2024    |
 |               In Sink               |    13 août 2024    |
+|             Bopl Battle             |    17 août 2024    |
 
 ## Idées de jeux
 
