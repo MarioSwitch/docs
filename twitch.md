@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 2 octobre 2024 (Yoshi's Woolly World #8) inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 27 octobre 2024 (Super Mario Party Jamboree #2) inclus." %}
 
 {% include note.html text="Les dates spécifiées ci-dessous sont celles des rediffusions et peuvent différer de quelques jours au plus des dates des diffusions en direct." %}
 
@@ -20,7 +20,7 @@
 | [Rayman Origins](https://www.twitch.tv/videos/1703185461?collection=bjI-atfgLhciGw) | 100 % | 10 janvier 2023 | 28 juin 2023 | 4 | 10h 28m | Avec @yosh_y29
 | [Celeste](https://www.twitch.tv/videos/1755433172?collection=WVXirSDTTRdB0g) | Faces A[^2] | 4 mars 2023 | 19 mars 2023 | 5 | 9h 05m | Avec @yosh_y29
 | [Logiart Grimoire](https://www.twitch.tv/collections/4enQalQX0hfnJQ) | Tous les succès[^3] | 22 mai 2024 | 28 août 2024 | 22 | 57h 16m | Solo
-| [Yoshi's Woolly World](https://www.twitch.tv/collections/MldsI3fu8hd8-g) | *En cours* | 7 septembre 2024 | *En cours* | *Au moins 8* | *Au moins 18h 51m* | Solo
+| [Yoshi's Woolly World](https://www.twitch.tv/collections/MldsI3fu8hd8-g) | 100 % | 7 septembre 2024 | 27 octobre 2024 | 11 | 23h 11m | Solo
 
 ### Abandonnés
 
@@ -54,6 +54,7 @@
 |               In Sink               |    13 août 2024    |
 |             Bopl Battle             |    17 août 2024    |
 |        Supermarket Together         |    26 août 2024    |
+|     Super Mario Party Jamboree      |  19 octobre 2024   |
 
 ## Idées de jeux
 
