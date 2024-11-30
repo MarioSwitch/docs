@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 27 octobre 2024 (Super Mario Party Jamboree #2) inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 30 novembre 2024 (Super Mario Bros. Wonder #7) inclus." %}
 
 {% include note.html text="Les dates spécifiées ci-dessous sont celles des rediffusions et peuvent différer de quelques jours au plus des dates des diffusions en direct." %}
 
@@ -21,6 +21,7 @@
 | [Celeste](https://www.twitch.tv/videos/1755433172?collection=WVXirSDTTRdB0g) | Faces A[^2] | 4 mars 2023 | 19 mars 2023 | 5 | 9h 05m | Avec @yosh_y29
 | [Logiart Grimoire](https://www.twitch.tv/collections/4enQalQX0hfnJQ) | Tous les succès[^3] | 22 mai 2024 | 28 août 2024 | 22 | 57h 16m | Solo
 | [Yoshi's Woolly World](https://www.twitch.tv/collections/MldsI3fu8hd8-g) | 100 % | 7 septembre 2024 | 27 octobre 2024 | 11 | 23h 11m | Solo
+| [Super Mario Bros. Wonder](https://www.twitch.tv/collections/0KhKR5T-AhgHwg) | 100 % | 29 octobre 2024 | 30 novembre 2024 | 7 | 13h 08m | Solo
 
 ### Abandonnés
 
@@ -58,7 +59,6 @@
 
 ## Idées de jeux
 
-- Super Mario Bros. Wonder
 - Donkey Kong Country: Tropical Freeze
 - New Super Luigi U
 - Super Mario 3D World
