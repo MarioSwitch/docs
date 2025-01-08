@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 21 décembre 2024 (Donkey Kong Country: Tropical Freeze #5) inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 7 janvier 2025 (Donkey Kong Country: Tropical Freeze #7) inclus." %}
 
 {% include note.html text="Les dates spécifiées ci-dessous sont celles des rediffusions et peuvent différer de quelques jours au plus des dates des diffusions en direct." %}
 
@@ -22,7 +22,7 @@
 | [Logiart Grimoire](https://www.twitch.tv/collections/4enQalQX0hfnJQ) | Tous les succès[^3] | 22 mai 2024 | 28 août 2024 | 22 | 57h 16m | Solo
 | [Yoshi's Woolly World](https://www.twitch.tv/collections/MldsI3fu8hd8-g) | 100 % | 7 sep. 2024 | 27 oct. 2024 | 11 | 23h 11m | Solo
 | [Super Mario Bros. Wonder](https://www.twitch.tv/collections/0KhKR5T-AhgHwg) | 100 % | 29 oct. 2024 | 30 nov. 2024 | 7 | 13h 08m | Solo
-| [Donkey Kong Country: Tropical Freeze](https://www.twitch.tv/collections/QXLACQCtDhjRpQ) | *En cours* | 6 déc. 2024 | *En cours* | *> 5* | *> 9h 54m* | Solo
+| [Donkey Kong Country: Tropical Freeze](https://www.twitch.tv/collections/QXLACQCtDhjRpQ) | 100 % FS[^4] | 6 déc. 2024 | 8 jan. 2025 | 7 | 14h 09m | Solo
 
 ### Abandonnés
 
@@ -57,13 +57,12 @@
 |             Bopl Battle             |    17 août 2024    |
 |        Supermarket Together         |    26 août 2024    |
 |     Super Mario Party Jamboree      |    19 oct. 2024    |
+|           NSFW Solitaire            |    8 jan. 2025     |
 
 ## Idées de jeux
 
-- New Super Luigi U
-- Super Mario 3D World
 - Bowser's Fury
-- Kirby Star Allies
+- New Super Luigi U
 
 ## Notes
 
@@ -72,3 +71,5 @@
 [^2]: Chapitres 1 à 8, soit 175 fraises + 8 cassettes + 8 cœurs bleus
 
 [^3]: Tous les succès Steam. 304 puzzles terminés, n'inclut pas les 115 puzzles « Lettre mystérieuse ».
+
+[^4]: 100 % selon le fichier de sauvegarde. N'inclut ni les pièces de puzzle, ni le mode chrono, ni les figurines à collectionner, ni le mode difficile.
