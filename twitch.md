@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 7 janvier 2025 (Donkey Kong Country: Tropical Freeze #7) inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 25 janvier 2025 (Super Mario Party Jamboree #4) inclus." %}
 
 {% include note.html text="Les dates spécifiées ci-dessous sont celles des rediffusions et peuvent différer de quelques jours au plus des dates des diffusions en direct." %}
 
@@ -23,6 +23,7 @@
 | [Yoshi's Woolly World](https://www.twitch.tv/collections/MldsI3fu8hd8-g) | 100 % | 7 sep. 2024 | 27 oct. 2024 | 11 | 23h 11m | Solo
 | [Super Mario Bros. Wonder](https://www.twitch.tv/collections/0KhKR5T-AhgHwg) | 100 % | 29 oct. 2024 | 30 nov. 2024 | 7 | 13h 08m | Solo
 | [Donkey Kong Country: Tropical Freeze](https://www.twitch.tv/collections/QXLACQCtDhjRpQ) | 100 % FS[^4] | 6 déc. 2024 | 8 jan. 2025 | 7 | 14h 09m | Solo
+| [Bowser's Fury](https://www.twitch.tv/videos/2350337917?collection=VWgrtHakGRjNpA) | 100 % | 11 jan. 2025 | 15 jan. 2025 | 2 | 4h 24m | Solo
 
 ### Abandonnés
 
@@ -59,10 +60,9 @@
 |     Super Mario Party Jamboree      |    19 oct. 2024    |
 |           NSFW Solitaire            |    8 jan. 2025     |
 
-## Idées de jeux
+## Jeux prévus
 
-- Bowser's Fury
-- New Super Luigi U
+*Aucun jeu prévu pour le moment*
 
 ## Notes
 
