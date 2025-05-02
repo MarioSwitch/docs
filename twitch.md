@@ -19,10 +19,10 @@
 | [Celeste](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUK3VoVBHM4TM75dkeUu40Y)                              | Faces A[^3]           | 2023-03-04 | 2023-03-19 |           5 | Avec @yosh_y29     |
 | [Logiart Grimoire](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUY6_4Zbs8UPnxg7TWxaYXc)                     | Tous les succès[^4]   | 2024-05-22 | 2024-08-28 |          22 | Solo               |
 | [Yoshi's Woolly World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhV37A6mqJnBjC9h2g9_Dw3-)                 | 100 %                 | 2024-09-06 | 2024-10-26 |          11 | Solo               |
+| [Super Mario Party Jamboree](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVzJt-plfE2j0BxRzCOuhuZ)           | Tous les plateaux[^6] | 2024-10-18 | 2025-04-30 |           7 | Solo               |
 | [Super Mario Bros. Wonder](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUwjxcbKztqJWOExUngrJhG)             | 100 %                 | 2024-10-28 | 2024-11-29 |           7 | Solo               |
 | [Donkey Kong Country: Tropical Freeze](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXBvrzUQixMiqFMyYsPdvTJ) | 100 % FS[^5]          | 2024-12-02 | 2025-01-07 |           7 | Solo               |
 | [Bowser's Fury](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVHixhAuvPhYBdBYzW1nZKp)                        | 100 %                 | 2025-01-10 | 2025-01-14 |           2 | Solo               |
-| [Super Mario Party Jamboree](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVzJt-plfE2j0BxRzCOuhuZ)           | Tous les plateaux[^6] | 2024-10-18 | 2025-04-30 |           7 | Solo               |
 
 ### En cours
 
