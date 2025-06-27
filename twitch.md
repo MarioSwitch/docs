@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 30 avril 2025 inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 9 juin 2025 inclus." %}
 
 ## Let's Play
 
@@ -19,16 +19,18 @@
 | [Celeste](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUK3VoVBHM4TM75dkeUu40Y)                              | Faces A[^3]           | 2023-03-04 | 2023-03-19 |           5 | Avec @yosh_y29     |
 | [Logiart Grimoire](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUY6_4Zbs8UPnxg7TWxaYXc)                     | Tous les succès[^4]   | 2024-05-22 | 2024-08-28 |          22 | Solo               |
 | [Yoshi's Woolly World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhV37A6mqJnBjC9h2g9_Dw3-)                 | 100 %                 | 2024-09-06 | 2024-10-26 |          11 | Solo               |
-| [Super Mario Party Jamboree](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVzJt-plfE2j0BxRzCOuhuZ)           | Tous les plateaux[^6] | 2024-10-18 | 2025-04-30 |           7 | Solo               |
+| [Super Mario Party Jamboree](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVzJt-plfE2j0BxRzCOuhuZ)           | Tous les plateaux[^5] | 2024-10-18 | 2025-04-30 |           7 | Solo               |
 | [Super Mario Bros. Wonder](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUwjxcbKztqJWOExUngrJhG)             | 100 %                 | 2024-10-28 | 2024-11-29 |           7 | Solo               |
-| [Donkey Kong Country: Tropical Freeze](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXBvrzUQixMiqFMyYsPdvTJ) | 100 % FS[^5]          | 2024-12-02 | 2025-01-07 |           7 | Solo               |
+| [Donkey Kong Country: Tropical Freeze](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXBvrzUQixMiqFMyYsPdvTJ) | 100 % FS[^6]          | 2024-12-02 | 2025-01-07 |           7 | Solo               |
 | [Bowser's Fury](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVHixhAuvPhYBdBYzW1nZKp)                        | 100 %                 | 2025-01-10 | 2025-01-14 |           2 | Solo               |
+| [Pico Park 2](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVpkQnwY37KAu-6xRZMlIrh)                          | 100 %                 | 2025-05-07 | 2025-05-17 |           4 | Avec @undyne___    |
 
 ### En cours
 
-| Jeu                                                                                                    | Complétion prévue | Début      | Nb. parties | Co-op ? |
-| ------------------------------------------------------------------------------------------------------ | ----------------- | ---------- | ----------: | ------- |
-| Aucun let's play pour le moment                                                                        | N/A               | N/A        |         N/A | N/A     |
+| Jeu                                                                                                       | Complétion prévue | Début      | Nb. parties | Co-op ?         |
+| --------------------------------------------------------------------------------------------------------- | ----------------- | ---------- | ----------: | --------------- |
+| [Snipperclips Plus](https://www.youtube.com/playlist?list=PLc3xBj1pKuhWajF8qaaeux59WGf2dSO02)             | 100 %             | 2025-05-29 |           2 | Avec @undyne___ |
+| [Paper Mario: The Origami King](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUKGA1booVxKWN9QRTdBaJm) | 100 %             | 2025-06-02 |           3 | Solo            |
 
 ### [Abandonnés](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUQipyki9hos0mp-Ub3ZsUG)
 
@@ -44,27 +46,33 @@
 
 ## Jeux en vrac
 
-### [Avec rediffusions](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXQh4ZT7y6O1GZvTpLMzm2g)
+### Avec rediffusions
 
-- 2021
+- [2021](https://www.youtube.com/playlist?list=PLc3xBj1pKuhWTW-H4or0xN10r8ha8yuYE)
     - Parcheesi
-- 2022
-    - Mario Party Superstars
-    - Mario Kart 8 Deluxe
-- 2023
-    - Super Mario Party
-    - Mario Party 9
-    - Mario Party 8
-- 2024
-    - Fall Guys
-    - Colonist
-    - Pico Park
-    - New Super Mario Bros. Wii
-    - Activités Discord
-    - MicroWorks
-    - In Sink
-    - Bopl Battle
-    - Supermarket Together
+
+- [2022-2024](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXQh4ZT7y6O1GZvTpLMzm2g)
+    - 2022
+        - Mario Party Superstars
+        - Mario Kart 8 Deluxe
+    - 2023
+        - Super Mario Party
+        - Mario Party 9
+        - Mario Party 8
+    - 2024
+        - Fall Guys
+        - Colonist
+        - Pico Park
+        - New Super Mario Bros. Wii
+        - Activités Discord
+        - MicroWorks
+        - In Sink
+        - Bopl Battle
+        - Supermarket Together
+
+- [2025](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUuhv1F9tyHxPjaGvWYBjWd)
+    - Wii Party
+    - New Super Mario Bros. U
 
 ### Sans rediffusions
 
@@ -89,6 +97,6 @@
 
 [^4]: Tous les succès Steam. 304 puzzles terminés, n'inclut pas les 115 puzzles « Lettre mystérieuse ».
 
-[^5]: 100 % selon le fichier de sauvegarde. N'inclut ni les pièces de puzzle, ni le mode chrono, ni les figurines à collectionner, ni le mode difficile.
+[^5]: Tous les plateaux des modes Mario Party et Quêtes et entraide
 
-[^6]: Tous les plateaux des modes Mario Party et Quêtes et entraide
+[^6]: 100 % selon le fichier de sauvegarde. N'inclut ni les pièces de puzzle, ni le mode chrono, ni les figurines à collectionner, ni le mode difficile.
