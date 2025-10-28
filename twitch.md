@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 23 août 2025 inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 27 octobre 2025 inclus." %}
 
 ## Let's Play
 
@@ -33,7 +33,7 @@
 
 | Jeu                                                                                                       | Complétion prévue | Début ▲    | Nb. parties | Co-op ?         |
 | --------------------------------------------------------------------------------------------------------- | ----------------- | ---------- | ----------: | --------------- |
-| *Aucune série en cours*                                                                                   |                   |            |             |                 |
+| [Mario Kart World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUXzd5xzoG9ky_s04d86Jfh)              | *À déterminer*    | 2025-10-18 |         *4* | Solo            |
 
 ### [Abandonnés](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUQipyki9hos0mp-Ub3ZsUG)
 
@@ -78,6 +78,7 @@
     - New Super Mario Bros. U
     - MicroWorks
     - Fall Guys
+    - Super Mario Galaxy 2
 
 ### Sans rediffusions
 
