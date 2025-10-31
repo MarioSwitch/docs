@@ -2,7 +2,7 @@
 
 ## GitHub Sponsors
 
-Pour l'instant, le moyen le plus simple de me faire un don est via **GitHub Sponsors** ici : https://github.com/sponsors/MarioSwitch
+Pour l'instant, le moyen le plus simple de me faire un don est via **GitHub Sponsors** ici : [https://github.com/sponsors/MarioSwitch](https://github.com/sponsors/MarioSwitch)
 
 - Possibilité de faire un don unique ou mensuel
 - Montant de 1 à 12 000 $ (entier uniquement)
@@ -14,7 +14,7 @@ Pour l'instant, le moyen le plus simple de me faire un don est via **GitHub Spon
 En raison de la liberté qu'offre les cryptomonnaies, je peux également recevoir des dons dans ce format.\
 En revanche, pour éviter la volatilité élevée des cryptomonnaies classiques (Bitcoin, Ethereum, etc.), je n'accepte que les monnaies stables respectant le règlement européen *Markets in Crypto-Assets* (MiCA).
 
-**Cryptomonnaies acceptées : UDSC[^1] et EURC[^2].**
+**Cryptomonnaies acceptées : USDC[^1] et EURC[^2].**
 
 {% include caution.html text="Préférez copier-coller les adresses suivantes, une erreur de saisie peut résulter en la perte de vos fonds." %}
 
@@ -29,4 +29,5 @@ En revanche, pour éviter la volatilité élevée des cryptomonnaies classiques 
 
 [^2]: EURC : cryptomonnaie stable adossée à l'Euro (EUR). 1 EURC = 1 EUR.
 
-[^3]: Pour USDC : Ethereum, Base, Arbitrum, Avalanche C-Chain, Optimism, Polygon. Pour EURC : Ethereum, Base
+[^3]: Pour USDC : Ethereum, Base, Arbitrum, Avalanche C-Chain, Optimism, Polygon.\
+Pour EURC : Ethereum, Base
