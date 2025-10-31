@@ -18,10 +18,10 @@ En revanche, pour éviter la volatilité élevée des cryptomonnaies classiques 
 
 {% include caution.html text="Préférez copier-coller les adresses suivantes, une erreur de saisie peut résulter en la perte de vos fonds." %}
 
-| Réseau / Chaîne       | Adresse USDC                                 | Adresse EURC                                 |
-| --------------------- | -------------------------------------------- | -------------------------------------------- |
-| Basé sur Ethereum[^3] | 0x1b922AC0568b17C2A26aB5bb18EA9AB4a402acAb   | 0xE7A40345533B50A3197AcDf0BA421b5fa5Fac713   |
-| Solana                | DQCSPpCDhr78YVqn9BJstdhSnAGt4v4gNTBkQBmc2zy3 | J38Dso685dLDAf1ZtnR8wkqGBKCeD2tQ7qNxe7fj9epG |
+| Réseau / Chaîne   | Adresse USDC[^3]                             | Adresse EURC[^4]                             |
+| ----------------- | -------------------------------------------- | -------------------------------------------- |
+| Basé sur Ethereum | 0x1b922AC0568b17C2A26aB5bb18EA9AB4a402acAb   | 0xE7A40345533B50A3197AcDf0BA421b5fa5Fac713   |
+| Solana            | DQCSPpCDhr78YVqn9BJstdhSnAGt4v4gNTBkQBmc2zy3 | J38Dso685dLDAf1ZtnR8wkqGBKCeD2tQ7qNxe7fj9epG |
 
 ## Notes
 
@@ -29,5 +29,6 @@ En revanche, pour éviter la volatilité élevée des cryptomonnaies classiques 
 
 [^2]: EURC : cryptomonnaie stable adossée à l'Euro (EUR). 1 EURC = 1 EUR.
 
-[^3]: Pour USDC : Ethereum, Base, Arbitrum, Avalanche C-Chain, Optimism, Polygon.\
-Pour EURC : Ethereum, Base
+[^3]: Réseaux basés sur Ethereum (pour USDC) : Ethereum, Base, Arbitrum, Avalanche C-Chain, Optimism, Polygon.
+
+[^4]: Réseaux basés sur Ethereum (pour EURC) : Ethereum, Base.
