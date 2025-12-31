@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 27 octobre 2025 inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 6 décembre 2025 inclus." %}
 
 ## Let's Play
 
@@ -79,6 +79,8 @@
     - MicroWorks
     - Fall Guys
     - Super Mario Galaxy 2
+    - Super Mario Galaxy 2 The New Green Stars
+    - Rayman Origins
 
 ### Sans rediffusions
 
@@ -92,7 +94,7 @@
 
 ## Jeux prévus
 
-*Aucun jeu prévu pour le moment*
+- Rayman Legends
 
 ## Notes
 
