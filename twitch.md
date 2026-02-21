@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 6 décembre 2025 inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 14 février 2026 inclus." %}
 
 ## Let's Play
 
@@ -31,9 +31,9 @@
 
 ### En cours
 
-| Jeu                                                                                                       | Complétion prévue | Début ▲    | Nb. parties | Co-op ?         |
-| --------------------------------------------------------------------------------------------------------- | ----------------- | ---------- | ----------: | --------------- |
-| [Mario Kart World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUXzd5xzoG9ky_s04d86Jfh)              | *À déterminer*    | 2025-10-18 |         *4* | Solo            |
+| Jeu                                                                                          | Complétion prévue       | Début ▲    | Nb. parties | Co-op ? |
+| -------------------------------------------------------------------------------------------- | ----------------------- | ---------- | ----------: | ------- |
+| [Mario Kart World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUXzd5xzoG9ky_s04d86Jfh) | *Tous les circuits[^8]* | 2025-10-18 |      *5/12* | Solo    |
 
 ### [Abandonnés](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUQipyki9hos0mp-Ub3ZsUG)
 
@@ -73,14 +73,17 @@
         - Bopl Battle
         - Supermarket Together
 
-- [2025](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUuhv1F9tyHxPjaGvWYBjWd)
-    - Wii Party
-    - New Super Mario Bros. U
-    - MicroWorks
-    - Fall Guys
-    - Super Mario Galaxy 2
-    - Super Mario Galaxy 2 The New Green Stars
-    - Rayman Origins
+- [2025-2026](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUuhv1F9tyHxPjaGvWYBjWd)
+    - 2025
+        - Wii Party
+        - New Super Mario Bros. U
+        - MicroWorks
+        - Fall Guys
+        - Super Mario Galaxy 2
+        - Super Mario Galaxy 2 The New Green Stars
+        - Rayman Origins
+    - 2026
+        - 
 
 ### Sans rediffusions
 
@@ -111,3 +114,5 @@
 [^6]: Le fichier de sauvegarde indique 100 %. N'inclut ni les pièces de puzzle, ni le mode chrono, ni les figurines à collectionner, ni le mode difficile.
 
 [^7]: Tous les niveaux en mode « Formes standard ». N'inclut pas les niveaux en mode « Formes aléatoires ».
+
+[^8]: Tous les circuits en 100cc, 150cc et Miroir et toutes les dalles « ? » en mode libre. N'inclut pas les coupes d'or 3 étoiles pour les modes « Grand Prix » et « K.-0. Tour », ni les boutons P et les pièces Peach en mode libre.
