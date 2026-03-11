@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 14 février 2026 inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 8 mars 2026 inclus." %}
 
 ## Let's Play
 
@@ -33,7 +33,7 @@
 
 | Jeu                                                                                          | Complétion prévue       | Début ▲    | Nb. parties | Co-op ? |
 | -------------------------------------------------------------------------------------------- | ----------------------- | ---------- | ----------: | ------- |
-| [Mario Kart World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUXzd5xzoG9ky_s04d86Jfh) | *Tous les circuits[^8]* | 2025-10-18 |      *5/12* | Solo    |
+| [Mario Kart World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUXzd5xzoG9ky_s04d86Jfh) | *Tous les circuits[^8]* | 2025-10-18 |     *10/12* | Solo    |
 
 ### [Abandonnés](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUQipyki9hos0mp-Ub3ZsUG)
 
@@ -83,7 +83,7 @@
         - Super Mario Galaxy 2 The New Green Stars
         - Rayman Origins
     - 2026
-        - 
+        - Donkey Kong Bananza
 
 ### Sans rediffusions
 
@@ -115,4 +115,4 @@
 
 [^7]: Tous les niveaux en mode « Formes standard ». N'inclut pas les niveaux en mode « Formes aléatoires ».
 
-[^8]: Tous les circuits en 100cc, 150cc et Miroir et toutes les dalles « ? » en mode libre. N'inclut pas les coupes d'or 3 étoiles pour les modes « Grand Prix » et « K.-0. Tour », ni les boutons P et les pièces Peach en mode libre.
+[^8]: Tous les circuits en 100cc, 150cc et Miroir et tous les panneaux « ? » en mode Balade. N'inclut pas les coupes d'or 3 étoiles pour les modes Grand Prix et Survie, ni les interrupteurs P et les médailles Peach en mode Balade.
