@@ -2,33 +2,26 @@
 
 ## GitHub Sponsors
 
-Pour l'instant, le moyen le plus simple de me faire un don est via **GitHub Sponsors** ici : [https://github.com/sponsors/MarioSwitch](https://github.com/sponsors/MarioSwitch)
+Pour l'instant, le moyen le plus simple de me faire un don est via **GitHub Sponsors** ici : **[https://github.com/sponsors/MarioSwitch](https://github.com/sponsors/MarioSwitch)**
 
 - Possibilité de faire un don unique ou mensuel
 - Montant de 1 à 12 000 $ (entier uniquement)
 - Badge sur votre profil GitHub
 - Pas de commission pour les particuliers, jusqu'à 6 % pour les organisations
 
-## Cryptomonnaies stables
+## Cryptomonnaies
 
-En raison de la liberté qu'offre les cryptomonnaies, je peux également recevoir des dons dans ce format.\
-En revanche, pour éviter la volatilité élevée des cryptomonnaies classiques (Bitcoin, Ethereum, etc.), je n'accepte que les monnaies stables respectant le règlement européen *Markets in Crypto-Assets* (MiCA).
+Si vous possédez un portefeuille de cryptomonnaies, vous pouvez également l'utiliser pour me faire un don.
 
-**Cryptomonnaies acceptées : USDC[^1] et EURC[^2].**
+{% include caution.html text="L'adresse communiquée ci-dessous est UNIQUEMENT compatible avec les **réseaux EVM** (*Ethereum Virtual Machine*), dont les plus connus sont **Ethereum**, **Binance (BNB) Smart Chain**, **Base**, **Arbitrum** et **Polygon**." %}
 
-{% include caution.html text="Préférez copier-coller les adresses suivantes, une erreur de saisie peut résulter en la perte de vos fonds." %}
+Toutes les cryptomonnaies sont autorisées (du moment qu'elles existent sur au moins un des réseaux EVM).\
+Si vous ne voulez pas être exposés à la volatilité des marchés, utilisez des *stablecoins* adossés au Dollar américain (USDT, USDC...) ou à l'Euro (EURC).
 
-| Réseau / Chaîne   | Adresse USDC[^3]                             | Adresse EURC[^4]                             |
-| ----------------- | -------------------------------------------- | -------------------------------------------- |
-| Basé sur Ethereum | 0x1b922AC0568b17C2A26aB5bb18EA9AB4a402acAb   | 0xE7A40345533B50A3197AcDf0BA421b5fa5Fac713   |
-| Solana            | DQCSPpCDhr78YVqn9BJstdhSnAGt4v4gNTBkQBmc2zy3 | J38Dso685dLDAf1ZtnR8wkqGBKCeD2tQ7qNxe7fj9epG |
+Mon nom d'utilisateur est **marioswitch2020.cb.id** (0x8bC0...c213[^1]).
+
+<img src="donations.png" style="zoom:25%">
 
 ## Notes
 
-[^1]: USDC : cryptomonnaie stable adossée au Dollar américain (USD). 1 USDC = 1 USD.
-
-[^2]: EURC : cryptomonnaie stable adossée à l'Euro (EUR). 1 EURC = 1 EUR.
-
-[^3]: Réseaux basés sur Ethereum (pour USDC) : Ethereum, Base, Arbitrum, Avalanche C-Chain, Optimism, Polygon.
-
-[^4]: Réseaux basés sur Ethereum (pour EURC) : Ethereum, Base.
+[^1]: L'adresse complète est masquée pour éviter le botting. Les caractères affichés permettent de vérifier votre saisie et/ou la lecture du code QR.
