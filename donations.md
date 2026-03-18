@@ -13,7 +13,7 @@ Pour l'instant, le moyen le plus simple de me faire un don est via **GitHub Spon
 
 Si vous possédez un portefeuille de cryptomonnaies, vous pouvez également l'utiliser pour me faire un don.
 
-{% include caution.html text="L'adresse communiquée ci-dessous est UNIQUEMENT compatible avec les **réseaux EVM** (*Ethereum Virtual Machine*), dont les plus connus sont **Ethereum**, **Binance (BNB) Smart Chain**, **Base**, **Arbitrum** et **Polygon**." %}
+{% include caution.html text="L'adresse communiquée ci-dessous est UNIQUEMENT compatible avec les <b>réseaux EVM</b> (<i>Ethereum Virtual Machine</i>), dont les plus connus sont <b>Ethereum</b>, <b>Binance (BNB) Smart Chain</b>, <b>Base</b>, <b>Arbitrum</b> et <b>Polygon</b>." %}
 
 Toutes les cryptomonnaies sont autorisées (du moment qu'elles existent sur au moins un des réseaux EVM).\
 Si vous ne voulez pas être exposés à la volatilité des marchés, utilisez des *stablecoins* adossés au Dollar américain (USDT, USDC...) ou à l'Euro (EURC).

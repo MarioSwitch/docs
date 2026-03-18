@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 8 mars 2026 inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 13 mars 2026 inclus." %}
 
 ## Let's Play
 
@@ -26,14 +26,15 @@
 | [Pico Park 2](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVpkQnwY37KAu-6xRZMlIrh)                          | 100 %                 | 2025-05-07 | 2025-05-17 |           4 | Avec @undyne___    |
 | [Snipperclips Plus](https://www.youtube.com/playlist?list=PLc3xBj1pKuhWajF8qaaeux59WGf2dSO02)                    | Tous les niveaux[^7]  | 2025-05-29 | 2025-08-23 |           6 | Avec @undyne___    |
 | [Paper Mario: The Origami King](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUKGA1booVxKWN9QRTdBaJm)        | 100 %                 | 2025-06-02 | 2025-08-22 |          14 | Solo               |
+| [Mario Kart World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUXzd5xzoG9ky_s04d86Jfh)                     | Tous les circuits[^8] | 2025-10-18 | 2026-03-13 |          12 | Solo               |
 
 *\* Jeux non-officiels (ROM hacks, mods...)*
 
 ### En cours
 
-| Jeu                                                                                          | Complétion prévue       | Début ▲    | Nb. parties | Co-op ? |
-| -------------------------------------------------------------------------------------------- | ----------------------- | ---------- | ----------: | ------- |
-| [Mario Kart World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUXzd5xzoG9ky_s04d86Jfh) | *Tous les circuits[^8]* | 2025-10-18 |     *10/12* | Solo    |
+| Jeu            | Complétion prévue | Début ▲    | Nb. parties | Co-op ? |
+| -------------- | ----------------- | ---------- | ----------: | ------- |
+| Rayman Legends | *100%*            | 2026-03-20 |         *?* | Solo    |
 
 ### [Abandonnés](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUQipyki9hos0mp-Ub3ZsUG)
 
@@ -97,7 +98,7 @@
 
 ## Jeux prévus
 
-- Rayman Legends
+- *Aucun*
 
 ## Notes
 
