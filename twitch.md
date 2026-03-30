@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 13 mars 2026 inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 27 mars 2026 inclus." %}
 
 ## Let's Play
 
@@ -32,9 +32,9 @@
 
 ### En cours
 
-| Jeu            | Complétion prévue | Début ▲    | Nb. parties | Co-op ? |
-| -------------- | ----------------- | ---------- | ----------: | ------- |
-| Rayman Legends | *100%*            | 2026-03-20 |         *?* | Solo    |
+| Jeu                                                                                        | Complétion prévue | Début ▲    | Nb. parties | Co-op ? |
+| ------------------------------------------------------------------------------------------ | ----------------- | ---------- | ----------: | ------- |
+| [Rayman Legends](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXO0dmFY57sIUbHYs0YimPr) | *100 %*           | 2026-03-20 |      *3/7+* | Solo    |
 
 ### [Abandonnés](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUQipyki9hos0mp-Ub3ZsUG)
 
@@ -116,4 +116,4 @@
 
 [^7]: Tous les niveaux en mode « Formes standard ». N'inclut pas les niveaux en mode « Formes aléatoires ».
 
-[^8]: Tous les circuits en 100cc, 150cc et Miroir et tous les panneaux « ? » en mode Balade. N'inclut pas les coupes d'or 3 étoiles pour les modes Grand Prix et Survie, ni les interrupteurs P et les médailles Peach en mode Balade.
+[^8]: Tous les circuits en 100cc, 150cc et Miroir en modes Grand Prix et Survie, et tous les panneaux « ? » en mode Balade. N'inclut pas les coupes d'or avec 3 étoiles en modes Grand Prix et Survie, ni les interrupteurs P et les médailles Peach en mode Balade.
