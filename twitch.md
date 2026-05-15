@@ -101,7 +101,7 @@
 
 ## Jeux prévus
 
-- Yoshi and the Mysterious Book
+- *Aucun*
 
 ## Notes
 
@@ -121,4 +121,4 @@
 
 [^8]: Tous les circuits en 100cc, 150cc et Miroir en modes Grand Prix et Survie, et tous les panneaux « ? » en mode Balade. N'inclut pas les coupes d'or avec 3 étoiles en modes Grand Prix et Survie, ni les interrupteurs P et les médailles Peach en mode Balade.
 
-[^9]: Mode Solo avec toutes les étoiles, objectifs de temps et de morts, et tous les costumes. La partie Co-op est disponible sur la [chaîne Twitch d'@undyne\_\_\_](https://www.twitch.tv/undyne\_\_\_) et/ou ses autres chaînes affiliées.
+[^9]: Mode Solo avec toutes les étoiles, objectifs de temps et de morts, et tous les costumes. La partie Co-op est disponible sur la [chaîne Twitch d'@undyne\_\_\_](https://www.twitch.tv/undyne___) et/ou ses autres chaînes affiliées.
