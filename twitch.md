@@ -1,6 +1,6 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 30 mai 2026 inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 3 juillet 2026 inclus." %}
 
 ## Let's Play
 
@@ -37,7 +37,7 @@
 
 | Jeu                                                                                                       | Complétion prévue | Début ▲    | Nb. parties | Co-op ? |
 | --------------------------------------------------------------------------------------------------------- | ----------------- | ---------- | ----------: | ------- |
-| [Yoshi and the Mysterious Book](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUGRV4k6kXHeWGaAuEBRAUG) | À venir           | 2026-05-21 |          3+ | Solo    |
+| [Yoshi and the Mysterious Book](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUGRV4k6kXHeWGaAuEBRAUG) | 100 %             | 2026-05-21 |         13+ | Solo    |
 
 ### [Abandonnés](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUQipyki9hos0mp-Ub3ZsUG)
 
@@ -119,7 +119,7 @@
 
 [^7]: Tous les niveaux en mode « Formes standard ». N'inclut pas les niveaux en mode « Formes aléatoires ».
 
-[^8]: Tous les circuits en 100cc, 150cc et Miroir en modes Grand Prix et Survie, et tous les panneaux « ? » en mode Balade. N'inclut pas les coupes d'or avec 3 étoiles en modes Grand Prix et Survie, ni les interrupteurs P et les médailles Peach en mode Balade.
+[^8]: Tous les circuits en 100cc, 150cc et Miroir en modes Grand Prix et Survie, et tous les panneaux « ? » en mode Balade (jusqu'à la version 1.5.0). N'inclut pas les circuits du mode Survie ajoutés depuis la version 1.7.0, les coupes d'or avec 3 étoiles en modes Grand Prix et Survie, ni les interrupteurs P et les médailles Peach en mode Balade.
 
 [^9]: Mode Solo avec toutes les étoiles, objectifs de temps et de morts, et tous les costumes. La partie Co-op est disponible sur la [chaîne Twitch d'@undyne\_\_\_](https://www.twitch.tv/undyne___) et/ou ses autres chaînes affiliées.
 
