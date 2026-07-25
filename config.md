@@ -23,9 +23,11 @@
 - **Clavier :** [HyperX Alloy Core RGB](https://fr.hyperx.com/collections/gaming-keyboards/products/hyperx-alloy-core-rgb-gaming-keyboard)
 - **Souris :** [HyperX Pulsefire FPS Pro](https://fr.hyperx.com/products/hyperx-pulsefire-fps-pro-gaming-mouse)
 - **Microphone :** [HyperX SoloCast](https://fr.hyperx.com/products/hyperx-solocast-usb-microphone)
-- **Casque audio :** [Marshall Major IV](https://www.marshall.com/fr/fr/product/major-iv)
+- **Casque audio :** [SteelSeries Arctis Nova 5](https://steelseries.com/fr-fr/gaming-headsets/arctis-nova-5)[^1]
 - **Carte de capture :** [AVerMedia Live Gamer Mini](https://www.avermedia.com/fr/product-detail/GC311)
 
 ## Autres informations
 - **Date :** Novembre 2022
 - **Système d'exploitation (OS) :** Windows 11 Famille
+
+[^1]: [Marshall Major IV](https://www.marshall.com/fr/fr/product/major-iv) jusqu'au 22 juillet 2026
