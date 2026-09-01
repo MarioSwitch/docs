@@ -1,43 +1,32 @@
 # Jeux diffusés sur Twitch
 
-{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 24 juillet 2026 inclus." %}
+{% include note.html text="Cette page prend en compte les diffusions en direct jusqu'au 31 août 2026 inclus." %}
 
 ## Let's Play
 
-### Terminés
+### Complets
 
-| Jeu                                                                                                              | Complétion            | Début ▲    | Fin        | Nb. parties | Co-op ?            |
+| Jeu                                                                                                              | Complétion            | Début ▼    | Fin        | Nb. parties | Co-op ?            |
 | ---------------------------------------------------------------------------------------------------------------- | --------------------- | ---------- | ---------- | ----------: | ------------------ |
-| [Newer Super Mario Bros. Wii](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUJ3np-6_rJBOC4WWp9fPPg)*         | 100 %                 | 2021-08-20 | 2021-11-01 |           8 | Solo[^1]           |
-| [New Super Mario Bros. U Deluxe](https://www.youtube.com/playlist?list=PLc3xBj1pKuhX1mPp700oViCkVIYgMI8ip)       | 100 %                 | 2022-05-06 | 2022-05-31 |           5 | Avec @yosh_y29[^2] |
-| [Pico Park](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUbZav2XGORW4ocLutYJLlW)                            | 100 %                 | 2022-06-16 | 2022-06-24 |           2 | Avec @yosh_y29     |
-| [Newer Holiday Special](https://youtu.be/U_nj9x56Cb4?t=0)*                                                       | 100 %                 | 2022-12-05 | 2022-12-05 |           1 | Avec @yosh_y29     |
-| [Newer Summer Sun](https://youtu.be/U_nj9x56Cb4?t=2374)*                                                         | 100 %                 | 2022-12-05 | 2022-12-05 |           1 | Avec @yosh_y29     |
-| [Newer Falling Leaf](https://youtu.be/My3iS3sf9rQ?t=0)*                                                          | 100 %                 | 2022-12-16 | 2022-12-16 |           1 | Avec @yosh_y29     |
-| [Newer Apocalypse](https://youtu.be/My3iS3sf9rQ?t=2547)*                                                         | 100 %                 | 2022-12-16 | 2022-12-16 |           1 | Avec @yosh_y29     |
-| [Rayman Origins](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXvGqsz8eDP7a7raAS-D4nF)                       | 100 %                 | 2023-01-10 | 2023-06-28 |           4 | Avec @yosh_y29     |
-| [Celeste](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUK3VoVBHM4TM75dkeUu40Y)                              | Faces A[^3]           | 2023-03-04 | 2023-03-19 |           5 | Avec @yosh_y29     |
-| [Logiart Grimoire](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUY6_4Zbs8UPnxg7TWxaYXc)                     | Tous les succès[^4]   | 2024-05-22 | 2024-08-28 |          22 | Solo               |
-| [Yoshi's Woolly World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhV37A6mqJnBjC9h2g9_Dw3-)                 | 100 %                 | 2024-09-06 | 2024-10-26 |          11 | Solo               |
-| [Super Mario Party Jamboree](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVzJt-plfE2j0BxRzCOuhuZ)           | Tous les plateaux[^5] | 2024-10-18 | 2025-04-30 |           7 | Solo               |
-| [Super Mario Bros. Wonder](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUwjxcbKztqJWOExUngrJhG)             | 100 %                 | 2024-10-28 | 2024-11-29 |           7 | Solo               |
-| [Donkey Kong Country: Tropical Freeze](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXBvrzUQixMiqFMyYsPdvTJ) | Fichier à 100 %[^6]   | 2024-12-02 | 2025-01-07 |           7 | Solo               |
-| [Bowser's Fury](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVHixhAuvPhYBdBYzW1nZKp)                        | 100 %                 | 2025-01-10 | 2025-01-14 |           2 | Solo               |
-| [Pico Park 2](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVpkQnwY37KAu-6xRZMlIrh)                          | 100 %                 | 2025-05-07 | 2025-05-17 |           4 | Avec @undyne___    |
-| [Snipperclips Plus](https://www.youtube.com/playlist?list=PLc3xBj1pKuhWajF8qaaeux59WGf2dSO02)                    | Tous les niveaux[^7]  | 2025-05-29 | 2025-08-23 |           6 | Avec @undyne___    |
-| [Paper Mario: The Origami King](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUKGA1booVxKWN9QRTdBaJm)        | 100 %                 | 2025-06-02 | 2025-08-22 |          14 | Solo               |
-| [Mario Kart World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUXzd5xzoG9ky_s04d86Jfh)                     | Tous les circuits[^8] | 2025-10-18 | 2026-03-13 |          12 | Solo               |
-| [Rayman Legends](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXO0dmFY57sIUbHYs0YimPr)                       | 100 %                 | 2026-03-20 | 2026-05-07 |           7 | Solo               |
-| [Biped](https://www.youtube.com/playlist?list=PLc3xBj1pKuhX0yJLo828OOBUVGWv6vZs-)                                | Mode Solo[^9]         | 2026-04-13 | 2026-04-20 |           3 | Solo               |
+| [Yoshi and the Mysterious Book](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUGRV4k6kXHeWGaAuEBRAUG)        | *100 %*               | 2026-05-21 | *En cours* |       *25+* | Solo               |
 | [Minecraft 1.18.2](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXG2F2MPqLrEaC5TgJyXzHf)                     | Any% Deathless[^10]   | 2026-05-16 | 2026-05-30 |           6 | Avec @undyne___    |
-
-*\* Jeux non-officiels (ROM hacks, mods...)*
-
-### En cours
-
-| Jeu                                                                                                       | Complétion prévue | Début ▲    | Nb. parties | Co-op ? |
-| --------------------------------------------------------------------------------------------------------- | ----------------- | ---------- | ----------: | ------- |
-| [Yoshi and the Mysterious Book](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUGRV4k6kXHeWGaAuEBRAUG) | 100 %             | 2026-05-21 |         19+ | Solo    |
+| [Biped](https://www.youtube.com/playlist?list=PLc3xBj1pKuhX0yJLo828OOBUVGWv6vZs-)                                | Mode Solo[^9]         | 2026-04-13 | 2026-04-20 |           3 | Solo               |
+| [Rayman Legends](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXO0dmFY57sIUbHYs0YimPr)                       | 100 %                 | 2026-03-20 | 2026-05-07 |           7 | Solo               |
+| [Mario Kart World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUXzd5xzoG9ky_s04d86Jfh)                     | Tous les circuits[^8] | 2025-10-18 | 2026-03-13 |          12 | Solo               |
+| [Paper Mario: The Origami King](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUKGA1booVxKWN9QRTdBaJm)        | 100 %                 | 2025-06-02 | 2025-08-22 |          14 | Solo               |
+| [Snipperclips Plus](https://www.youtube.com/playlist?list=PLc3xBj1pKuhWajF8qaaeux59WGf2dSO02)                    | Tous les niveaux[^7]  | 2025-05-29 | 2025-08-23 |           6 | Avec @undyne___    |
+| [Pico Park 2](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVpkQnwY37KAu-6xRZMlIrh)                          | 100 %                 | 2025-05-07 | 2025-05-17 |           4 | Avec @undyne___    |
+| [Bowser's Fury](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVHixhAuvPhYBdBYzW1nZKp)                        | 100 %                 | 2025-01-10 | 2025-01-14 |           2 | Solo               |
+| [Donkey Kong Country: Tropical Freeze](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXBvrzUQixMiqFMyYsPdvTJ) | Fichier à 100 %[^6]   | 2024-12-02 | 2025-01-07 |           7 | Solo               |
+| [Super Mario Bros. Wonder](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUwjxcbKztqJWOExUngrJhG)             | 100 %                 | 2024-10-28 | 2024-11-29 |           7 | Solo               |
+| [Super Mario Party Jamboree](https://www.youtube.com/playlist?list=PLc3xBj1pKuhVzJt-plfE2j0BxRzCOuhuZ)           | Tous les plateaux[^5] | 2024-10-18 | 2025-04-30 |           7 | Solo               |
+| [Yoshi's Woolly World](https://www.youtube.com/playlist?list=PLc3xBj1pKuhV37A6mqJnBjC9h2g9_Dw3-)                 | 100 %                 | 2024-09-06 | 2024-10-26 |          11 | Solo               |
+| [Logiart Grimoire](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUY6_4Zbs8UPnxg7TWxaYXc)                     | Tous les succès[^4]   | 2024-05-22 | 2024-08-28 |          22 | Solo               |
+| [Celeste](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUK3VoVBHM4TM75dkeUu40Y)                              | Faces A[^3]           | 2023-03-04 | 2023-03-19 |           5 | Avec @yosh_y29     |
+| [Rayman Origins](https://www.youtube.com/playlist?list=PLc3xBj1pKuhXvGqsz8eDP7a7raAS-D4nF)                       | 100 %                 | 2023-01-10 | 2023-06-28 |           4 | Avec @yosh_y29     |
+| [Pico Park](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUbZav2XGORW4ocLutYJLlW)                            | 100 %                 | 2022-06-16 | 2022-06-24 |           2 | Avec @yosh_y29     |
+| [New Super Mario Bros. U Deluxe](https://www.youtube.com/playlist?list=PLc3xBj1pKuhX1mPp700oViCkVIYgMI8ip)       | 100 %                 | 2022-05-06 | 2022-05-31 |           5 | Avec @yosh_y29[^2] |
+| [Newer Super Mario Bros. Wii](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUJ3np-6_rJBOC4WWp9fPPg)*         | 100 %                 | 2021-08-20 | 2021-11-01 |           8 | Solo[^1]           |
 
 ### [Abandonnés](https://www.youtube.com/playlist?list=PLc3xBj1pKuhUQipyki9hos0mp-Ub3ZsUG)
 
@@ -62,12 +51,18 @@
     - 2022
         - Mario Party Superstars
         - Mario Kart 8 Deluxe
+        - [Newer Holiday Special](https://newerteam.com/wii/specials.html)[^NSMBW]
+        - [Newer Summer Sun](https://newerteam.com/wii/specials.html)[^NSMBW]
+        - [Newer Falling Leaf](https://newerteam.com/wii/specials.html)[^NSMBW]
+        - [Newer Apocalypse](https://archive.org/download/super-mario-wii-mods/Newer%20Apocalypse.zip)[^NSMBW]
     - 2023
         - Super Mario Party
         - Mario Party 9
         - Mario Party 8
     - 2024
+        - Hatsune Miku: Project DIVA Mega Mix
         - Fall Guys
+        - Parcheesi
         - Colonist
         - Pico Park
         - New Super Mario Bros. Wii
@@ -84,7 +79,7 @@
         - MicroWorks
         - Fall Guys
         - Super Mario Galaxy 2
-        - Super Mario Galaxy 2 The New Green Stars
+        - [Super Mario Galaxy 2: The New Green Stars](https://gamebanana.com/mods/150989)[^SMG2]
         - Rayman Origins
     - 2026
         - Donkey Kong Bananza
@@ -98,6 +93,11 @@
     - NSFW Solitaire
     - Hentai Tales Vol. 3
     - Hentai Shop Simulator
+- 2026
+    - Super Mario Maker
+    - New Super Luigi U
+    - New Super Mario Bros. U
+    - Mario Kart 8
 
 ## Jeux prévus
 
@@ -124,3 +124,7 @@
 [^9]: Mode Solo avec toutes les étoiles, objectifs de temps et de morts, et tous les costumes. La partie Co-op est disponible [ici (chaîne YouTube @Undyne\_\_\_Rediffusion)](https://www.youtube.com/playlist?list=PLKiVi5cvbRzP6UK-4A-5ExebUaK5FgMQf).
 
 [^10]: Victoire contre l'Ender Dragon sans aucune mort
+
+[^NSMBW]: Mod/Hack de *New Super Mario Bros. Wii*
+
+[^SMG2]: Mod/Hack de *Super Mario Galaxy 2*
